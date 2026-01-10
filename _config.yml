@@ -275,6 +275,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
+scholar_userid: qDrxGPUAAAAJ
 scholar:
   last_name: [Choi]
   first_name: [You Rim]
