@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-federated-learning-has-been-accepted-for-sensys-2024",
+            },},{id: "news-our-work-on-sleep-ai-has-won-best-poster-award-at-mobisys-2024",
+          title: 'Our work on Sleep AI has won Best Poster Award at MobiSys 2024...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-federated-learning-has-been-accepted-for-sensys-2024",
           title: 'Our paper on Federated learning has been accepted for SenSys 2024',
           description: "",
           section: "News",},{id: "news-our-paper-on-sleep-ai-has-been-accepted-for-npj-digital-medicine-if-top-4-in-medical-informatics",
