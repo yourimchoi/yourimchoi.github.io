@@ -8,5 +8,13 @@
 "Vision":
   color: "#009f36"
 
+"Workshop":
+  color: "#009f36"
+
 "MSE":
-  color: "#212422"
+  color: "#242625"
+  text_color: "#ffffff"
+
+"MSE Book":
+  color: "#242625"
+  text_color: "#ffffff"
