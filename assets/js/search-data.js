@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-have-been-selected-for-the-nrf-phd-fellowship",
+            },},{id: "news-i-have-been-selected-for-the-nrf-phd-fellowship",
           title: 'I have been selected for the NRF PhD Fellowship',
           description: "",
           section: "News",},{id: "news-our-work-on-sleep-ai-has-won-best-poster-runner-up-award-at-mobicom-2025",
