@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-been-selected-for-the-nrf-phd-fellowship",
+            },},{id: "news-our-paper-on-sleep-ai-has-been-accepted-for-npj-digital-medicine-if-top-4-in-medical-informatics",
+          title: 'Our paper on Sleep AI has been accepted for npj Digital Medicine (IF...',
+          description: "",
+          section: "News",},{id: "news-i-have-been-selected-for-the-nrf-phd-fellowship",
           title: 'I have been selected for the NRF PhD Fellowship',
           description: "",
           section: "News",},{id: "news-our-work-on-sleep-ai-has-won-best-poster-runner-up-award-at-mobicom-2025",
