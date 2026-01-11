@@ -1,17 +1,26 @@
-"Vision":
-  color: "#009f36"
-
+"Abstract":
+  color: "#a4a8b3"
+  
 "Workshop":
-  color: "#6c9681"
+  color: "#82ad98"
+
+"Conference":
+  color: "#2E4882"
+
+"Conference| Poster":
+  color: "#435c91"
+
+"Journal":
+  color: "#d3b6db"
 
 "MSE":
-  color: "#8c8d8f"
+  color: "#9a9ca1"
   text_color: "#ffffff"
 
 "MSE Book":
-  color: "#8c8d8f"
+  color: "#9a9ca1"
   text_color: "#ffffff"
 
 "MSE Conference":
-  color: "#8c8d8f"
+  color: "#9a9ca1"
   text_color: "#ffffff"
