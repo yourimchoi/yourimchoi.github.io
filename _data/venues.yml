@@ -9,12 +9,16 @@
   color: "#009f36"
 
 "Workshop":
-  color: "#009f36"
+  color: "#6c9681"
 
 "MSE":
-  color: "#242625"
+  color: "#8c8d8f"
   text_color: "#ffffff"
 
 "MSE Book":
-  color: "#242625"
+  color: "#8c8d8f"
+  text_color: "#ffffff"
+
+"MSE Conference":
+  color: "#8c8d8f"
   text_color: "#ffffff"
