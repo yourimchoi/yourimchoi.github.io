@@ -8,6 +8,7 @@
     - name: Email
       value: yrchoi@snu.ac.kr
 
+
 - title: Education
   type: time_table
   contents:
@@ -17,14 +18,59 @@
       description:
         - Graduate School of Data Science
         - AIoT Lab (advisor - prof. Hyung-Sin Kim)
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - NRF PhD Fellowship
     - title: MS
       institution: Seoul National University, Seoul, Republic of Korea
+      year: 2014
+      description:
+        - Department of Materials Science and Engineering
+        - ONNL Lab (advisor - prof. Ho Won Jang)
     - title: BS
       institution: POSTECH, Pohang, Republic of Korea
+      year: 2012
+      description:
+        - Department of Materials Science and Engineering
+        - Summa Cum Laude
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Best Poster Runner-up Award @MobiCom 2025
+    - year: 2025
+      items:
+        - NRF PhD Fellowship
+    - year: 2024
+      items:
+        - Best Poster Award @MobiSys 2024
+    - year: 2023
+      items:
+        - Outstanding Paper Award @Korea Data Science Conference
+        - Award from the Chairperson of the National Research Foundation of Korea (NRF)
+    - year: 2022
+      items:
+        - 2nd place in 2022 National AI competition (semi-supervised image segmentation)
+        - Minister of Science and ICT Award (MSIT), Republic of Korea
+    - year: 2022
+      items:
+        - Excellence award in 2022 k-ium medical AI competition
+    - year: 2022
+      items:
+        - Grand Prize, Dental Dataset Construction AI Competition (AI Challenge)
+        - SNU School of Dentistry
+    - year: 2022
+      items:
+        - Best Paper Award @Korea Sleep Medicine Conference
+        - On-device Real-time Sleep Stage Classification with Single Channel EEG using Low-power NPU
+    - year: 2012-2014
+      items:
+        - Scholarship for Academic Excellence, Seoul National University
+    - year: 2008-2012
+      items:
+        - Full National Undergraduate Science and Technology Scholarship
+        - Korea Student Aid Foundation
 
 
 # - title: Experience
@@ -66,29 +112,6 @@
 #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-
-- title: Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 # - title: Academic Interests
 #   type: nested_list
