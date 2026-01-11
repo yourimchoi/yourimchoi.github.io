@@ -397,7 +397,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-federated-learning-has-been-accepted-for-sensys-2024",
           title: 'Our paper on Federated learning has been accepted for SenSys 2024',
           description: "",
-          section: "News",},{id: "news-our-paper-on-sleep-ai-has-been-accepted-for-npj-digital-medicine-if-top-4-in-medical-informatics",
+          section: "News",},{id: "news-our-paper-on-sleep-ai-has-been-accepted-for-npj-digital-medicine-if-15-1-top-4-in-medical-informatics",
           title: 'Our paper on Sleep AI has been accepted for npj Digital Medicine (IF...',
           description: "",
           section: "News",},{id: "news-i-have-been-selected-for-the-nrf-phd-fellowship",
