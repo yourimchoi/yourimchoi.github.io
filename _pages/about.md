@@ -25,8 +25,10 @@ latest_posts:
 ---
 
 I am a Ph.D. student at the Graduate School of Data Science, Seoul National University, advised by Prof. Hyung-Sin Kim.
+
 I develop machine learning methods and systems that translate into real-world impact across domains, with a particular interest in AI+X.
 My current focus is AI for healthcare, particularly Sleep AI, using video, images, and multimodal time-series data.
 I also work on enabling methods for practical deployment, including on-device AI, semi-supervised learning, and federated learning.
+
 Previously, I earned my B.S. from POSTECH and my M.S. from Seoul National University in Materials Science and Engineering, where I conducted research on nanoelectronic materials under the supervision of Prof. Ho Won Jang.
 This background continues to inspire my interest in applying AI to broader science and engineering problems.
