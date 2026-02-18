@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-02-18'
 papers:
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
-    citations: 114
+    citations: 117
     title: Extremely Sensitive and Selective NO Probe Based on Villi-like WO3 Nanostructures for Application to Exhaled Breath Analyzers
     year: '2013'
   qDrxGPUAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: 'PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators'
     year: '2023'
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
     year: '2024'
   qDrxGPUAAAAJ:UeHWp8X0CEIC:
@@ -26,31 +26,31 @@ papers:
     title: 'Let the Void Be Void: Robust Open-Set Semi-Supervised Learning via Selective Non-Alignment'
     year: '2025'
   qDrxGPUAAAAJ:Y0pCki6q_DkC:
-    citations: 17
+    citations: 22
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: 'Poster: Home-based, On-Device, Non-contact Sleep Staging with Infrared Video'
     year: '2025'
   qDrxGPUAAAAJ:d1gkVwhDpl0C:
-    citations: 5
+    citations: 4
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
-    citations: 14
+    citations: 16
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
-    citations: 103
+    citations: 104
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
     year: '2016'
   qDrxGPUAAAAJ:u-x6o8ySG0sC:
-    citations: 110
+    citations: 111
     title: Chemically fluorinated graphene oxide for room temperature ammonia detection at ppb levels
     year: '2017'
   qDrxGPUAAAAJ:u5HHmVD_uO8C:
-    citations: 253
+    citations: 257
     title: Role of oxygen functional groups in graphene oxide for reversible room-temperature NO2 sensing
     year: '2015'
   qDrxGPUAAAAJ:ufrVoPGSRksC:
