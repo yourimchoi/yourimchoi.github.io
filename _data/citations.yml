@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-27'
 papers:
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
     citations: 117
@@ -13,6 +13,10 @@ papers:
     citations: 4
     title: 'PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators'
     year: '2023'
+  qDrxGPUAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Global Pivots, Local Unknowns: Stable Federated Open-Set Semi-Supervised Learning'
+    year: Unknown Year
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
@@ -22,11 +26,11 @@ papers:
     title: Highly sensitive and selective H2 and NO2 gas sensors based on surface-decorated WO3 nanoigloos
     year: '2014'
   qDrxGPUAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: 'Let the Void Be Void: Robust Open-Set Semi-Supervised Learning via Selective Non-Alignment'
     year: '2025'
   qDrxGPUAAAAJ:Y0pCki6q_DkC:
-    citations: 22
+    citations: 24
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
