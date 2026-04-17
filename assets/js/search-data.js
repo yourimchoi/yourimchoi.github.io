@@ -391,10 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-bio-inspired-ai-has-been-accepted-for-mobisys-2026",
-          title: 'Our paper on Bio-Inspired AI has been accepted for MobiSys 2026',
-          description: "",
-          section: "News",},{id: "news-our-work-on-sleep-ai-has-won-best-poster-award-at-mobisys-2024",
+            },},{id: "news-our-work-on-sleep-ai-has-won-best-poster-award-at-mobisys-2024",
           title: 'Our work on Sleep AI has won Best Poster Award at MobiSys 2024...',
           description: "",
           section: "News",},{id: "news-our-paper-on-federated-learning-has-been-accepted-for-sensys-2024",
@@ -411,6 +408,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-on-open-set-semi-supervised-learning-has-been-accepted-for-aaai-2026",
           title: 'Our paper on Open-set Semi-supervised learning has been accepted for AAAI 2026',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-bio-inspired-ai-has-been-accepted-for-mobisys-2026",
+          title: 'Our paper on Bio-Inspired AI has been accepted for MobiSys 2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
