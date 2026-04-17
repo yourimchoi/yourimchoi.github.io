@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-bio-inspired-ai-has-been-accepted-for-mobisys-2026-emerging-ideas-acceptance-ratio-22-4",
-          title: 'Our paper on Bio-Inspired AI has been accepted for MobiSys 2026 (Emerging Ideas,...',
+            },},{id: "news-our-paper-on-bio-inspired-ai-has-been-accepted-for-mobisys-2026",
+          title: 'Our paper on Bio-Inspired AI has been accepted for MobiSys 2026',
           description: "",
           section: "News",},{id: "news-our-work-on-sleep-ai-has-won-best-poster-award-at-mobisys-2024",
           title: 'Our work on Sleep AI has won Best Poster Award at MobiSys 2024...',
