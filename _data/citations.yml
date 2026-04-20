@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-20'
 papers:
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
     citations: 119
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: 'Global Pivots, Local Unknowns: Stable Federated Open-Set Semi-Supervised Learning'
     year: Unknown Year
+  qDrxGPUAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: '[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI'
+    year: '2026'
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
     citations: 4
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
@@ -30,7 +34,7 @@ papers:
     title: 'Let the Void Be Void: Robust Open-Set Semi-Supervised Learning via Selective Non-Alignment'
     year: '2025'
   qDrxGPUAAAAJ:Y0pCki6q_DkC:
-    citations: 27
+    citations: 26
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
@@ -42,19 +46,23 @@ papers:
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
-    citations: 19
+    citations: 20
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
     citations: 104
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
     year: '2016'
+  qDrxGPUAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro-and Micro-structures'
+    year: '2026'
   qDrxGPUAAAAJ:u-x6o8ySG0sC:
     citations: 111
     title: Chemically fluorinated graphene oxide for room temperature ammonia detection at ppb levels
     year: '2017'
   qDrxGPUAAAAJ:u5HHmVD_uO8C:
-    citations: 257
+    citations: 259
     title: Role of oxygen functional groups in graphene oxide for reversible room-temperature NO2 sensing
     year: '2015'
   qDrxGPUAAAAJ:ufrVoPGSRksC:
