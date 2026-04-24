@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
     citations: 119
@@ -46,7 +46,7 @@ papers:
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
-    citations: 20
+    citations: 21
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
