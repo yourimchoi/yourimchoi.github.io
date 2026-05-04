@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-04'
 papers:
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
     citations: 119
@@ -50,7 +50,7 @@ papers:
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
-    citations: 104
+    citations: 105
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
     year: '2016'
   qDrxGPUAAAAJ:roLk4NBRz8UC:
@@ -70,6 +70,6 @@ papers:
     title: 'Clinicians "See" the waveforms: A computer vision approach for interpretable automatic sleep staging'
     year: '2024'
   qDrxGPUAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: 'SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video'
     year: '2023'
