@@ -10,6 +10,9 @@
 "Conference | Poster":
   color: "#c7bfab"
 
+"Conference | Demo":
+  color: "#c7bfab"
+
 "Journal":
   color: "#d3b6db"
 
