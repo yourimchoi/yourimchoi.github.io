@@ -24,3 +24,16 @@
 "MSE Conference":
   color: "#9a9ca1"
   text_color: "#ffffff"
+
+
+"journal (MSE)":
+  color: "#9a9ca1"
+  text_color: "#ffffff"
+
+"Book":
+  color: "#9a9ca1"
+  text_color: "#ffffff"
+
+"Conference (MSE)":
+  color: "#9a9ca1"
+  text_color: "#ffffff"
