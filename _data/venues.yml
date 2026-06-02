@@ -30,13 +30,13 @@
 
 
 "journal (MSE)":
-  color: "#9a9ca1"
+  color: "#b5b6ba"
   text_color: "#ffffff"
 
 "Book":
-  color: "#9a9ca1"
+  color: "#b5b6ba"
   text_color: "#ffffff"
 
 "Conference (MSE)":
-  color: "#9a9ca1"
+  color: "#b5b6ba"
   text_color: "#ffffff"
