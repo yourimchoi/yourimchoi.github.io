@@ -88,16 +88,19 @@
         - Teaching Assistant (Head TA), Computing Foundations for Data Science
 
         
-# - title: Work Experience
-#   type: time_table
-#   contents:
-#     - title: B.S.
-#       institution: POSTECH, Pohang, Republic of Korea
-#       year: 2012
-#       description:
-#         - Department of Materials Science and Engineering
-#         - "GPA: 3.95/4.3"
-#         - Summa Cum Laude, Graduated one semester early
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: LIBETO Korea Inc. (KOLON Global subsidiary)
+      year: 2018-2020
+      description:
+        - Customer Experience Management Team, Team Leader
+        - Product Team, Manager
+    - title: Lasomme
+      year: 2014-2018
+      description:
+        - Co-founder, R&D Manager
+        - Selected for the 2018 Youth Social Innovation Project, Seoul Metropolitan Government
 
 
 - title: Technical Skills
@@ -114,19 +117,19 @@
         - Certified Investment Manager, Korea Financial Investment Association
 
         
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 #     - title: Visiting Professor
 #       institution: California Institute of Technology, Pasadena, California, US
 #       year: 1933
