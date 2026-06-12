@@ -120,12 +120,15 @@
     - title: Programming & ML Frameworks
       items:
         - Python, C/C++, SQL, HTML, TensorFlow, PyTorch
+    - title: Design & Prototyping Tools
+      items:
+        - SketchUp, CAD
     - title: Languages
       items:
         - Korean (Native), English
     - title: Certifications
       items:
-        - Certified Investment Manager, Korea Financial Investment Association
+        - Certified Investment Manager, issued by the Korea Financial Investment Association
 
         
 #     - title: Visiting Professor
