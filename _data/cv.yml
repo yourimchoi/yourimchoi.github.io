@@ -71,6 +71,31 @@
         - Full National Undergraduate Science and Technology Scholarship, Korea Student Aid Foundation
 
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2023 Fall
+      items:
+        - Teaching Assistant (Head TA), Computing 1 for Data Science
+    - year: 2022 Summer
+      items:
+        - Teaching Assistant, GSDS Ambient AI Bootcamp and Competition
+    - year: 2022 Spring
+      items:
+        - Teaching Assistant, Computing Foundations for Data Science
+    - year: 2021 Fall
+      items:
+        - Teaching Assistant (Head TA), Computing Foundations for Data Science
+
+        
+# - title: Work Experience
+#   type: time_table
+#   contents:
+#     - year: 2025
+#       items:
+#         - Best Poster Runner-up Award @MobiCom 2025
+
+        
 # - title: Experience
 #   type: time_table
 #   contents:
