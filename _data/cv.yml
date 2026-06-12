@@ -101,6 +101,7 @@
 
 
 - title: Technical Skills
+  type: nested_list
   contents:
     - title: Programming & ML Frameworks
       items:
