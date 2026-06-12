@@ -91,9 +91,13 @@
 # - title: Work Experience
 #   type: time_table
 #   contents:
-#     - year: 2025
-#       items:
-#         - Best Poster Runner-up Award @MobiCom 2025
+#     - title: B.S.
+#       institution: POSTECH, Pohang, Republic of Korea
+#       year: 2012
+#       description:
+#         - Department of Materials Science and Engineering
+#         - "GPA: 3.95/4.3"
+#         - Summa Cum Laude, Graduated one semester early
 
         
 # - title: Experience
