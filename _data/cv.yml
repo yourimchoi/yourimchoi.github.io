@@ -95,23 +95,23 @@
       year: 2018-2020
       description:
         - title: Customer Experience Management Team, Team Leader
-            contents:
-              - Planned customer experience strategies, managed service operations, and oversaw facility management planning and execution.
+          contents:
+            - Planned customer experience strategies, managed service operations, and oversaw facility management planning and execution.
         - title: Product Team, Manager
-            contents:
-              - Developed co-living facilities and residential services.
+          contents:
+            - Developed co-living facilities and residential services.
     - title: Lasomme
       year: 2014-2018
       description:
         - title: Co-founder, R&D Manager
-            contents:
-              - Developed polyurethane foam mattresses, multipurpose furniture, and custom space-planning furniture.
-              - Managed production coordination and logistics operations.
+          contents:
+            - Developed polyurethane foam mattresses, multipurpose furniture, and custom space-planning furniture.
+            - Managed production coordination and logistics operations.
         - Selected for the 2018 Youth Social Innovation Project, Seoul Metropolitan Government
-    - title: &BEYOND (Investment Consulting Company)
+    - title: "&BEYOND (Investment Consulting Company)"
       year: 2014
       description:
-        - title: Research Assistant
+        - Research Assistant
         
 
 - title: Technical Skills
