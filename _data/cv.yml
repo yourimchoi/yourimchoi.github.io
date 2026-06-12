@@ -100,14 +100,17 @@
 #         - Summa Cum Laude, Graduated one semester early
 
 
-- title: Academic Interests
-  type: nested_list
+- title: Technical Skills
   contents:
-    - title: Topic 1.
+    - title: Programming & ML Frameworks
       items:
-        - Description 1.
-        - Description 2.
-
+        - Python, C/C++, SQL, HTML, TensorFlow, PyTorch
+    - title: Languages
+      items:
+        - Korean (Native), English
+    - title: Certifications
+      items:
+        - Certified Investment Manager, Korea Financial Investment Association
 
         
 # - title: Experience
