@@ -74,12 +74,21 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - year: 2026 Mar
+      items:
+        - Teaching Assistant, AI Model Applications, Samsung SW·AI Academy for Youth (SSAFY)
+    - year: 2025 Nov
+      items:
+        - Teaching Support, Recent On-Device AI Technologies, Samsung Human Resources Development Center
+    - year: 2025 Oct
+      items:
+        - Teaching Assistant, AI Model Applications, Samsung SW·AI Academy for Youth (SSAFY)
     - year: 2023 Fall
       items:
         - Teaching Assistant (Head TA), Computing 1 for Data Science
     - year: 2022 Summer
       items:
-        - Teaching Assistant, GSDS Ambient AI Bootcamp and Competition
+        - Lab Instructor, GSDS Ambient AI Bootcamp and Competition
     - year: 2022 Spring
       items:
         - Teaching Assistant, Computing Foundations for Data Science
