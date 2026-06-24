@@ -1,10 +1,22 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-24'
 papers:
+  qDrxGPUAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: Organized Plasticity for Cost-Bounded Continual Adaptation
+    year: Unknown Year
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
-    citations: 119
+    citations: 120
     title: Extremely Sensitive and Selective NO Probe Based on Villi-like WO3 Nanostructures for Application to Exhaled Breath Analyzers
     year: '2013'
+  qDrxGPUAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: Artificial Tripartite Intelligence, A Bio-Inspired Sensor-First Architecture for Physical AI
+    year: '2026'
+  qDrxGPUAAAAJ:8k81kl-MbHgC:
+    citations: 0
+    title: Non-contact on-device detection of obstructive sleep apnea from infrared video
+    year: '2026'
   qDrxGPUAAAAJ:9yKSN-GCB0IC:
     citations: 46
     title: Microscopic Evidence for Strong Interaction between Pd and Graphene Oxide that Results in Metal-Decoration-Induced Reduction of Graphene Oxide.
@@ -26,15 +38,19 @@ papers:
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
     year: '2024'
   qDrxGPUAAAAJ:UeHWp8X0CEIC:
-    citations: 139
+    citations: 142
     title: Highly sensitive and selective H2 and NO2 gas sensors based on surface-decorated WO3 nanoigloos
     year: '2014'
+  qDrxGPUAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: 'HARMONY: Bridging the Personalization-Generalization Gap by Mitigating Representation Skew in Heterogeneous Split Federated Learning'
+    year: '2026'
   qDrxGPUAAAAJ:WF5omc3nYNoC:
     citations: 1
     title: 'Let the Void Be Void: Robust Open-Set Semi-Supervised Learning via Selective Non-Alignment'
     year: '2025'
   qDrxGPUAAAAJ:Y0pCki6q_DkC:
-    citations: 27
+    citations: 28
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
@@ -46,9 +62,13 @@ papers:
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
-    citations: 21
+    citations: 24
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
+  qDrxGPUAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Multimodal PSG foundation model integrating second to full-night scale
+    year: Unknown Year
   qDrxGPUAAAAJ:qjMakFHDy7sC:
     citations: 106
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
@@ -58,11 +78,11 @@ papers:
     title: 'SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro-and Micro-structures'
     year: '2026'
   qDrxGPUAAAAJ:u-x6o8ySG0sC:
-    citations: 111
+    citations: 113
     title: Chemically fluorinated graphene oxide for room temperature ammonia detection at ppb levels
     year: '2017'
   qDrxGPUAAAAJ:u5HHmVD_uO8C:
-    citations: 259
+    citations: 258
     title: Role of oxygen functional groups in graphene oxide for reversible room-temperature NO2 sensing
     year: '2015'
   qDrxGPUAAAAJ:ufrVoPGSRksC:
