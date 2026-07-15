@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-15'
 papers:
   qDrxGPUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,11 +34,11 @@ papers:
     title: '[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI'
     year: '2026'
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 3
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
     year: '2024'
   qDrxGPUAAAAJ:UeHWp8X0CEIC:
-    citations: 142
+    citations: 141
     title: Highly sensitive and selective H2 and NO2 gas sensors based on surface-decorated WO3 nanoigloos
     year: '2014'
   qDrxGPUAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 0
     title: 'Poster: Home-based, On-Device, Non-contact Sleep Staging with Infrared Video'
     year: '2025'
   qDrxGPUAAAAJ:d1gkVwhDpl0C:
@@ -65,10 +65,6 @@ papers:
     citations: 25
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
-  qDrxGPUAAAAJ:hqOjcs7Dif8C:
-    citations: 0
-    title: Multimodal PSG foundation model integrating second to full-night scale
-    year: Unknown Year
   qDrxGPUAAAAJ:qjMakFHDy7sC:
     citations: 106
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
