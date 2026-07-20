@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   qDrxGPUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Non-contact on-device detection of obstructive sleep apnea from infrared video
     year: '2026'
   qDrxGPUAAAAJ:9yKSN-GCB0IC:
-    citations: 46
+    citations: 47
     title: Microscopic Evidence for Strong Interaction between Pd and Graphene Oxide that Results in Metal-Decoration-Induced Reduction of Graphene Oxide.
     year: '2017'
   qDrxGPUAAAAJ:IjCSPb-OGe4C:
@@ -30,7 +30,7 @@ papers:
     title: 'Global Pivots, Local Unknowns: Stable Federated Open-Set Semi-Supervised Learning'
     year: Unknown Year
   qDrxGPUAAAAJ:Se3iqnhoufwC:
-    citations: 0
+    citations: 1
     title: '[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI'
     year: '2026'
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
@@ -67,7 +67,7 @@ papers:
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
     citations: 106
-    title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS 2 nanoparticles
+    title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS2 nanoparticles
     year: '2016'
   qDrxGPUAAAAJ:roLk4NBRz8UC:
     citations: 0
