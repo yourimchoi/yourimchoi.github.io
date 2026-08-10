@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-10'
 papers:
   qDrxGPUAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Organized Plasticity for Cost-Bounded Continual Adaptation
     year: Unknown Year
   qDrxGPUAAAAJ:2osOgNQ5qMEC:
-    citations: 120
+    citations: 119
     title: Extremely Sensitive and Selective NO Probe Based on Villi-like WO3 Nanostructures for Application to Exhaled Breath Analyzers
     year: '2013'
   qDrxGPUAAAAJ:5nxA0vEk-isC:
@@ -29,12 +29,16 @@ papers:
     citations: 0
     title: 'Global Pivots, Local Unknowns: Stable Federated Open-Set Semi-Supervised Learning'
     year: Unknown Year
+  qDrxGPUAAAAJ:MXK_kJrjxJIC:
+    citations: 0
+    title: Multimodal PSG foundation model integrating second to full-night scale
+    year: Unknown Year
   qDrxGPUAAAAJ:Se3iqnhoufwC:
     citations: 1
     title: '[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI'
     year: '2026'
   qDrxGPUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: 'Poster: Home-based, on-device non-invasive obstructive sleep apnea monitoring with infrared video'
     year: '2024'
   qDrxGPUAAAAJ:UeHWp8X0CEIC:
@@ -50,7 +54,7 @@ papers:
     title: 'Let the Void Be Void: Robust Open-Set Semi-Supervised Learning via Selective Non-Alignment'
     year: '2025'
   qDrxGPUAAAAJ:Y0pCki6q_DkC:
-    citations: 28
+    citations: 29
     title: Effective heterogeneous federated learning via efficient hypernetwork-based weight generation
     year: '2024'
   qDrxGPUAAAAJ:_FxGoFyzp5QC:
@@ -62,11 +66,11 @@ papers:
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 28
     title: Explainable vision transformer for automatic visual sleep staging on multimodal PSG signals
     year: '2025'
   qDrxGPUAAAAJ:qjMakFHDy7sC:
-    citations: 106
+    citations: 105
     title: Ultrasensitive reversible oxygen sensing by using liquid-exfoliated MoS2 nanoparticles
     year: '2016'
   qDrxGPUAAAAJ:roLk4NBRz8UC:
@@ -86,6 +90,6 @@ papers:
     title: 'Clinicians "See" the waveforms: A computer vision approach for interpretable automatic sleep staging'
     year: '2024'
   qDrxGPUAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: 'SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video'
     year: '2023'
