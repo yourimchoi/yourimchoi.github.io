@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   qDrxGPUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -25,10 +25,6 @@ papers:
     citations: 4
     title: 'PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators'
     year: '2023'
-  qDrxGPUAAAAJ:LkGwnXOMwfcC:
-    citations: 0
-    title: 'Global Pivots, Local Unknowns: Stable Federated Open-Set Semi-Supervised Learning'
-    year: Unknown Year
   qDrxGPUAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: Multimodal PSG foundation model integrating second to full-night scale
