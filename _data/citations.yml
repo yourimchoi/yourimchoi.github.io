@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-24'
 papers:
   qDrxGPUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: 'Poster: Home-based, On-Device, Non-contact Sleep Staging with Infrared Video'
     year: '2025'
   qDrxGPUAAAAJ:d1gkVwhDpl0C:
-    citations: 4
+    citations: 5
     title: Novel metal oxide gas sensors for mobile devices
     year: '2015'
   qDrxGPUAAAAJ:eQOLeE2rZwMC:
@@ -74,11 +74,11 @@ papers:
     title: 'SleepMaMi: A Universal Sleep Foundation Model for Integrating Macro-and Micro-structures'
     year: '2026'
   qDrxGPUAAAAJ:u-x6o8ySG0sC:
-    citations: 113
+    citations: 114
     title: Chemically fluorinated graphene oxide for room temperature ammonia detection at ppb levels
     year: '2017'
   qDrxGPUAAAAJ:u5HHmVD_uO8C:
-    citations: 258
+    citations: 259
     title: Role of oxygen functional groups in graphene oxide for reversible room-temperature NO2 sensing
     year: '2015'
   qDrxGPUAAAAJ:ufrVoPGSRksC:
