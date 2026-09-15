@@ -39,6 +39,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Youlchon AI Young Researcher Scholarship
     - year: 2025
       items:
         - Best Poster Runner-up Award at MobiCom 2025
